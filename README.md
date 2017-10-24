@@ -1,4 +1,4 @@
-# Count-Negative-Numbers-in-a-Matrix
+# Count-All-Negative-Numbers
 This is a Java program that counts all the negative integers in a <i>n x m</i> matrix.</br>
 We will assume that the matrix is sorted from smallest to largest on every row.<br>
 
